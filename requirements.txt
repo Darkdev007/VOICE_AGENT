@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+sounddevice
+numpy
+langchain_openai
+langchain_community
+cartesia
+pyaudio
+websocket-client
